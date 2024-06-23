@@ -1,0 +1,32 @@
+{
+  "studentInfo": [
+    {
+      "_id": 1,
+      "registerId": "3pd20ee400",
+      "studentName": "raju",
+      "fatherName": "shyam",
+      "collageName": "PES"
+    },
+    {
+      "_id": 2,
+      "registerId": "3pd20ee401",
+      "studentName": "salman",
+      "fatherName": "Khan",
+      "collageName": "PES"
+    },
+    {
+      "_id": 3,
+      "registerId": "3pd20ee402",
+      "studentName": "Sharukh",
+      "fatherName": "Saleem",
+      "collageName": "PES"
+    },
+    {
+      "_id": 4,
+      "registerId": "3pd20ee403",
+      "studentName": "amir",
+      "fatherName": "khan",
+      "collageName": "PES"
+    }
+  ]
+}
